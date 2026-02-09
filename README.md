@@ -1,5 +1,6 @@
-
-                                  ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPek0LdLVTS1BrgkpbBUiOa4DF__g_rhUaw&s)
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPek0LdLVTS1BrgkpbBUiOa4DF__g_rhUaw&s" alt="MasterHead" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Sule Boyaci</h1>
 <h3 align="center">AI Engineer & Researcher | Istanbul</h3>
