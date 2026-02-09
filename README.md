@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPek0LdLVTS1BrgkpbBUiOa4DF__g_rhUaw&s" alt="MasterHead" />
-</div>
+ ![MasterHead](https://www.innovapptive.com/hubfs/The%20Impact%20of%20Artificial%20Intelligence%20%26amp_%20Machine%20Learning%20(AI_ML)%20on%20Operations_BLOG%20COVER_20200225.png)
 
-<h1 align="center">Hi 👋, I'm Sule Boyaci</h1>
+<h1 align="center">Hi 👋, I'm Şule Boyacı</h1>
 <h3 align="center">AI Engineer & Researcher | Istanbul</h3>
 
 - 🔭 I’m currently working on **Deep Learning Models for OCT & Fundus Analysis**
